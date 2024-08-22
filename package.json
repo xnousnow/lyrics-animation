@@ -30,6 +30,6 @@
   },
   "type": "module",
   "dependencies": {
-    "reset-css": "^5.0.2"
+    "modern-normalize": "^3.0.0"
   }
 }
